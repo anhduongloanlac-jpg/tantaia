@@ -1,2 +1,0 @@
-# tantaia
-Scrip tổng hợp
